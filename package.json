@@ -1,0 +1,14 @@
+{
+  "name": "sunwin-websocket-api",
+  "version": "1.0.0",
+  "description": "API lấy kết quả phiên game bài từ WebSocket",
+  "main": "main.js",
+  "scripts": {
+    "start": "node sun.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.1"
+  }
+}
